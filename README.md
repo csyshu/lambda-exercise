@@ -1,1 +1,1 @@
-"# lambda-exercise" 
+# lambda-exercise
